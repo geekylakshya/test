@@ -33,3 +33,15 @@ cd installLibrealsense/
 -DPYTHON_EXECUTABLE=$(which python3)
 
 ./buildLibrealsense.sh -v 2.54.2 -j 2
+
+
+
+
+
+
+
+
+https://forums.developer.nvidia.com/t/realsense-d435i-not-working-with-jetson-orin-nano-8gb-jetpack-6-0/298870/5
+https://nvidia-isaac-ros.github.io/getting_started/hardware_setup/sensors/realsense_setup.html
+https://github.com/IntelRealSense/librealsense/issues/13114
+https://github.com/IntelRealSense/librealsense/blob/master/doc/installation_jetson.md
